@@ -2,7 +2,7 @@
 ## Project Overview - Milestone 1
 
 ### Backend Development Status
-**🟢 Completed Tasks (6/10)**
+**🟢 Completed Tasks (6/11)**
 1. Projects API Implementation
 2. Onboarding & Authentication System
 3. OTP Generation Service
@@ -10,7 +10,7 @@
 5. Organizations Module
 6. Swagger Documentation
 
-**🟡 In Progress Tasks (4/10)**
+**🟡 In Progress Tasks (5/11)**
 1. Organization Members Management
 2. Tasks Module Development
 3. S3 Service Integration
@@ -21,7 +21,7 @@
 * Remaining Hours: 45
 
 ### Frontend Development Status
-**🟢 Completed Tasks (7/8)**
+**🟢 Completed Tasks (7/10)**
 1. Sign-up Flow with Backend Integration
 2. Sign-in Flow with Backend Integration
 3. Invited Member Sign-up Flow Integration
@@ -30,7 +30,7 @@
 6. Tasks Screens Development
 7. Members Screen Development
 
-**🟡 In Progress Tasks (1/8)**
+**🟡 In Progress Tasks (3/10)**
 * Backend Integration for:
   - Projects API
   - Tasks API
