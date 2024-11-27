@@ -39,13 +39,13 @@
 
 ### Next Steps
 1. Electron App
-  1. Authentication
-  2. Activities Tracking
-  3. Logs Management and Syncing
+    1. Authentication
+    2. Activities Tracking
+    3. Logs Management and Syncing
 
 2. Backend
-   1. APIs for logs uploading
+    1. APIs for logs uploading
 
 3. Frontend
-  1. Handle Auth request from Electron App.
+    1. Handle Auth request from Electron App.
 ---
