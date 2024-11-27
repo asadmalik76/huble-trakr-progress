@@ -48,4 +48,7 @@
 
 3. Frontend
     1. Handle Auth request from Electron App.
----
+
+
+#Project Overview - Milestone 1
+###Goal: Up and running of Electron App and uploading and management of activites logs.
